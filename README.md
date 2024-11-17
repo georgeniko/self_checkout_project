@@ -14,3 +14,5 @@ Files included:
 - users.sql: SQL script for the typical user creation as needed for the course. 
 
 This database is part of a 3-person project developed on MySQLWorkbench for course "Databases" of Electrical & Computer Engineering (Aristotle University of Thessaloniki) for educational purposes. The members of the legendary Team 36: Daniilidou Iliana, Konstantinidis Konstantinos and George Nikolis. 
+
+![alt text](https://github.com/georgeniko/self_checkout_project/blob/main/db_model.png?raw=true)
